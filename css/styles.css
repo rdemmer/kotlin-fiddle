@@ -147,7 +147,7 @@
     float: left;
     width: 129px;
     height: 43px;
-    background: url("/images/logo.png") no-repeat;
+    background: url("images/logo.png") no-repeat;
     font-size: 0;
     text-decoration: none; }
 
@@ -217,7 +217,7 @@
     margin-left: 3px;
     width: 75px;
     height: 27px;
-    background: url("/images/footer-jetbrains-logo.png");
+    background: url("images/footer-jetbrains-logo.png");
     font-size: 0; }
 .global-footer-terms .terms-sponsor .sponsor_jetbrains:hover {
     opacity: 1; }
