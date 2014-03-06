@@ -99,7 +99,7 @@
     position: relative;
     padding: 32px 0;
     background-color: #496880;
-    background-image: url("images/index-page-header-bg.jpg");
+    background-image: url("http://jetbrains.github.io/kotlin-fiddle/images/index-page-header-bg.jpg");
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover; }
@@ -217,7 +217,7 @@
     margin-left: 3px;
     width: 75px;
     height: 27px;
-    background: url("/images/footer-jetbrains-logo.png");
+    background: url("http://jetbrains.github.io/kotlin-fiddle/images/footer-jetbrains-logo.png");
     font-size: 0; }
 .global-footer-terms .terms-sponsor .sponsor_jetbrains:hover {
     opacity: 1; }
