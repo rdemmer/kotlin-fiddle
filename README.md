@@ -1,3 +1,3 @@
-[![obsolete JetBrains project](http://jb.gg/badges/obsolete-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+[![obsolete JetBrains project](https://jb.gg/badges/obsolete-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
 Kotlin Fiddle Site. See gh-page
